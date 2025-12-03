@@ -1,0 +1,7 @@
+name = "pset14_metaprogramming"
+version = "0.1.0"
+defaultTargets = ["Pset14"]
+
+[[lean_lib]]
+name = "Pset14"
+globs = ["Pset14.Pset14", "Pset14.Tests"]
